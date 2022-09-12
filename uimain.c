@@ -22,7 +22,7 @@ int main()
       break;
     case 'h':
       puts("You selected chars 5x7");
-      for(char c = 'A'; c < 'D'; c++)
+      for(char c = 'x'; c < '{'; c++)
         print_char_5x7(c);
       break;
     case 't':

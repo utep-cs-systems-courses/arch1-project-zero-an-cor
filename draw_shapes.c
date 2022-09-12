@@ -30,6 +30,6 @@ void print_triangle(int leftCol, int size)
 /* Prints an a triangle and then prints a rectangle to create an arrow*/
 void print_arrow()
 {
-  print_triangle(4,4);
-  print_square(4,4);
+  print_triangle(3,5);
+  print_square(6,6);
 }
